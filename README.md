@@ -1,10 +1,5 @@
-<!-- 🟦 ANIMATED BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/CF8rqLr.gif" width="100%" alt="Animated Banner">
-</p>
-
-<h1 align="center">Hi 👋, I'm Dheeraj Gaur</h1>
-<h3 align="center">Full Stack Developer | Java • React • DSA • TypeScript</h3>
+<h1 align="center">✨ Hi, I'm <strong>Dheeraj Gaur</strong> ✨</h1>
+<h3 align="center">Full Stack Developer | Java • React • TypeScript • DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dheerajgaurgithub&label=Profile%20Views&color=blue&style=flat" />
@@ -12,93 +7,96 @@
 
 ---
 
-## 🔥 About Me
+## 💫 About Me
 
+- 🔥 Full Stack Developer (React + Node + Java)
 - 🎓 B.Tech CSE @ GLA University  
-- 💻 Working with **Java | JavaScript | TypeScript | React | Node.js**  
-- 📘 Learning **DSA + System Design + Advanced Web Dev**  
-- 🚀 I love building projects and solving coding problems  
-- 📧 Email: **dheeraj.ajaygaur05@gmail.com**
+- 📚 Learning **DSA | System Design | TypeScript | Full-Stack Dev**
+- 🧠 I enjoy building projects, solving problems & exploring new tech  
+- ✉️ Email: **dheeraj.ajaygaur05@gmail.com**
 
 ---
 
 # 🚀 Tech Stack
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript)
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+</p>
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+</p>
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+</p>
 
 ### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
+</p>
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajgaurgithub&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dheerajgaurgithub&theme=onestar&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-# 🎖 Featured Projects
+# 🚀 Featured Projects
 
-### 🔥 BhuwiKart – E-Commerce Website
-A responsive ecommerce website built with React + TSX  
-<p>
-  <a href="https://github.com/dheerajgaurgithub/BhuviKart-E-Commerce-website-"><img src="https://img.shields.io/badge/🔗 View%20Project-blue"></a>
-</p>
+### **1️⃣ BhuwiKart – E-Commerce Website (React + TSX)**
+A fully responsive online shopping platform  
+<p><a href="https://github.com/dheerajgaurgithub/BhuviKart-E-Commerce-website-"><b>🔗 View Project</b></a></p>
 
-### 💙 ProposeYourCrush  
-A fun project to propose someone ❤️  
-<p>
-  <a href="https://github.com/dheerajgaurgithub/ProposeYourCrush"><img src="https://img.shields.io/badge/🔗 View%20Project-green"></a>
-</p>
+### **2️⃣ ProposeYourCrush (TypeScript)**  
+Fun project to express love ❤️  
+<p><a href="https://github.com/dheerajgaurgithub/ProposeYourCrush"><b>🔗 View Project</b></a></p>
 
-### 🚀 EarnByCode  
-Solve coding problems & earn points  
-<p>
-  <a href="https://github.com/dheerajgaurgithub/EarnByCode"><img src="https://img.shields.io/badge/🔗 View%20Project-orange"></a>
-</p>
+### **3️⃣ EarnByCode (TypeScript)**  
+Earn by solving coding problems  
+<p><a href="https://github.com/dheerajgaurgithub/EarnByCode"><b>🔗 View Project</b></a></p>
 
-### 🌐 Portfolio_deheerajgaur  
-My personal portfolio  
-<p>
-  <a href="https://github.com/dheerajgaurgithub/Portfolio_deheerajgaur"><img src="https://img.shields.io/badge/🔗 View%20Project-purple"></a>
-</p>
+### **4️⃣ Portfolio_deheerajgaur**  
+Your personal portfolio website  
+<p><a href="https://github.com/dheerajgaurgithub/Portfolio_deheerajgaur"><b>🔗 View Project</b></a></p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheerajgaurgithub&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgaurgithub&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerajgaurgithub&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgaurgithub&layout=compact&theme=react&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajgaurgithub&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajgaurgithub&theme=react&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake Graph
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -107,18 +105,11 @@ My personal portfolio
 ---
 
 # 🧊 3D Contribution Graph
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dheerajgaurgithub/dheerajgaurgithub/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
-<p>
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="mailto:dheeraj.ajaygaur05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
-</p>
-
----
-
-<p align="center">⭐ Thanks for visiting my profile! 🚀</p>
+<h3 align="center">💙 Thanks for visiting! Keep coding & keep smiling 😊</h3>
